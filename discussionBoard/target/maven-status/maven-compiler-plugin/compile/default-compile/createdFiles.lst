@@ -1,0 +1,3 @@
+com\mycompany\discussionthread\SignInServlet.class
+com\mycompany\discussionthread\CreatePostServlet.class
+com\mycompany\discussionthread\LoadPostsServlet.class
